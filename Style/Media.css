@@ -1,0 +1,720 @@
+@media(max-width:1400px){
+    .olivia .oliviaright{
+        padding-left: 10px;
+    }
+
+}
+
+
+
+@media(max-width:1200px){
+    .digitalpoductchiled button{
+        margin-top: 120px;
+
+    }
+    .shifted{
+        margin-left: 45px;
+    }
+    .section5chiled2 .uiuxtext{
+     
+        margin-left: 45px;
+    }
+    .uxdesign{
+        margin-left: 45px;
+
+}
+.appdevelopmenttext h6{
+    margin-left: 45px;
+}
+
+.section6{
+    justify-content: space-between;
+}
+.olivia .oliviaright{
+    padding-right: 30px;
+}
+
+}
+
+
+@media(max-width:1150px){
+    .ourteam{
+        width: 98%;
+    }
+    
+    
+}
+@media(max-width:1111px){
+    .left .firstul{
+        
+        margin-left: 70px;
+    
+       
+    
+    }
+
+    .firstboxleft img{
+
+        margin-left: 25px;
+    
+    }
+    .firstboxleft h2{
+        font-size: 70px;
+        margin-left: 28px;
+    }
+    .firstboxleft h6{
+        font-size: 13px;
+        margin-left: 28px;
+    }
+    .section14chiled2 .section14chiled2right{
+        width: 20%;
+    }
+    .section14chiled2 .section14chiled2mid {
+        width: 20%;
+    }
+    .section14chiled h2 a {
+        font-size: 113px;
+    }
+
+
+}
+@media(max-width:1030px){
+    .ourteam{
+        width: 95%;
+    }
+    .firstboxmid p{
+        margin-left: 90px;
+        font-size: 14px;
+    }
+    .firstboxmid p{
+        
+        line-height: 25px;
+        
+       
+    }
+}
+
+
+
+@media(max-width:992px){
+    .left {
+        display: none;
+
+    }
+    .mid img{
+        display: none;
+    }
+    .mid{
+        border: none;
+    }
+    
+.right{
+    width: 100%;
+   
+}
+.big{
+    text-align:right;
+}
+
+.right img{
+    height: 20px;
+    width: 20px;
+}
+
+.accordion3{
+    display: none;
+}
+.accordion4{
+    display: none;
+}
+.accordion2{
+    width: 70%;
+}
+     
+  .menu2{
+    display: flex;
+    justify-content: center;
+
+
+  }
+  .firstboxleft h2{
+    font-size: 60px;
+
+  
+
+}
+.firstboxleft h6{
+    font-size: 12px;
+    
+}
+.section4chiled{
+    flex-wrap: wrap;
+   justify-content:space-between;
+ 
+
+}
+
+.webdevelopments{
+    width:48%;
+
+}
+.branding{
+    width: 48%;
+}
+.digitalproduct{
+   width: 48%;
+
+
+}
+.ui-ux{
+width: 48%;
+
+}
+
+.webdevelopments{
+bottom: 0px;
+}
+
+
+.ui-ux{
+    bottom: 0px;
+}
+
+.digitalpoductchiled button{
+margin-top: 8px;
+
+}
+
+.branding{
+    margin-top: 50px;
+}
+.ui-ux {
+    margin-top: 50px;
+}
+
+.whatwehave h2{
+    font-size: 33px;
+   
+}
+.section4{
+    margin-top: 25px;
+}
+
+.section4chiled{
+   
+    margin-top: 100px;
+}
+.section5{
+    flex-direction: column;
+    
+
+}
+.section5chiled{
+    display: flex;
+    justify-content: center;
+    width: 96%;
+
+}
+.section5chiled2{
+   
+    width: 100%;
+    margin-top: 53px;
+    margin-left: 17px
+
+
+}
+.section5chiled img{
+    width: 96%;
+  
+}
+
+.ultmiate h6{
+    font-size: 15px;
+}
+.ultmiate h2{
+    font-size: 35px;
+}
+.shifted{
+    width: 100%;
+    margin-left: 0px;
+}
+.uxdesign{
+    margin-left: 0px
+}
+.appdevelopmenttext h6{
+    margin-left: 0px;
+  
+}
+.section5chiled2 .uiuxtext{
+    margin-left: 0px;
+}
+.section6{
+    flex-wrap: wrap;
+}
+.section6 h2{
+    font-size: 63px;
+   
+}
+.section6{
+    justify-content: space-around;
+}
+.section6chiled3{
+    margin-top: 35px;
+    margin-left: 30px;
+}
+
+.section8 .section8chiled h2{
+
+    font-size: 35px;
+}
+
+.section9{
+    display: block;
+}
+.section9 .section9chiled{
+    width: 100%;
+}
+.section9 .section9chiled2{
+    width: 100%;
+}
+.section9 .section9chiled h2{
+    font-size: 30px;
+
+
+}
+.section10chiledright{
+    display: none;
+}
+
+.section10 .section10chiled2{
+    flex-wrap: wrap;
+
+}
+.section11chiled h2{
+    font-size: 50px;
+}
+.section13 .section13chiled2 .olivia{
+    display: block;
+   
+}
+.olivia .oliviamid h2{
+
+    font-size: 22px;
+
+}
+.olivia .oliviaright{
+  text-align: start;
+  margin-left: 32px;
+  margin-top: 50px;
+}
+
+.olivia .oliviamid{
+    margin-left: 40px;
+    padding-top: 31px;
+}
+.section13 .section13chiled2 .olivia{
+   padding-top: 40px;
+   padding-bottom: 55px;
+}
+
+.olivialeft .olivialeftchiled2 h6{
+    font-size: 13px;
+
+}
+.olivia .oliviamid h6 {
+    margin-top: 26px;
+}
+.section13 .section13chiled h2 {
+    font-size: 35px;
+}
+.section14 .section14chiled2{
+    display: block;
+}
+.section14chiled2 .section14chiled2mid {
+    margin-left: 0px;
+}
+.section14chiled2 .section14chiled2right{
+    width: 100%;
+}
+.section14chiled2 .section14chiled2mid {
+    width: 100%;
+    margin: 55px 0px;
+}
+.section14chiled h2 a {
+    font-size: 90px;
+}
+.section14chiled2 .section14chiled2left h2 {
+    font-size: 23px;
+}
+.section14chiled2 .section14chiled2left h4 {
+    font-size: 14px;
+}
+.section14chiled2 .section14chiled2left h2 {
+    margin: 30px 0px 40px 0px;
+
+}
+.section14chiled img{
+    height: 60px;
+    width: 60px;
+}
+
+.section14chiled2 .section14chiled2left h5 a {
+    font-size: 23px;
+}
+.section14chiled2mid h4 {
+    font-size: 15px;
+}
+.section9{
+    padding-bottom: 100px;
+}
+.section14 {
+    padding: 0px 2px;
+}
+.section14chiled {
+    padding: 0px 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+.section14chiled2 .section14chiled2left{
+    padding: 0px 15px;
+}
+.section14chiled3{
+    padding: 0px 15px;
+}
+}
+
+@media(max-width:880px){
+    .ourteam{
+        width: 100%;
+    }
+    .firstboxmid p{
+        margin-left: 40px;
+
+}
+
+
+.section14chiled img {
+    height: 45px;
+    width: 45px;
+}
+
+
+
+}
+
+@media(max-width:768px){
+    .barh2{
+        font-size: 30px;
+    
+    }
+    .accordion li{
+        font-size: 19px;
+    }
+    .firstbigbox{
+      flex-direction: column;
+      align-items: center;
+      
+    }
+    .firstboxmid{
+       border: none;
+    }
+    .firstboxleft{
+        display: none;
+    }
+    .firstboxright img{
+        width: 78%;
+        margin-left: 0px;
+       
+    }
+    .firstboxright{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .clock{
+        margin-top: 0px;
+        margin-left: 0px;
+
+
+}
+.firstboxright img{
+margin-top: 60px
+}
+.digitalpoductchiled button{
+    margin-top: 80px;
+    
+    }
+
+    .whatwehave h2{
+        font-size: 28px;
+       
+      
+       
+    }
+    .ultmiate h2{
+        font-size: 27px;
+    }
+    .shifted{
+        width:95%;
+    }
+    .section5chiled img{
+     
+        margin-left: 17px;
+    }
+    .section6{
+        display: block;
+    }
+.section6chiled3{
+    margin-top: 0px;
+    margin-left: 0px;
+}
+ 
+.section6chiled2{
+    margin: 30px 0px;
+}
+.section8 .section8chiled h2{
+
+    font-size: 28px;
+}
+.section9chiled2 .slide p{
+    font-size: 17px;
+}
+.section9chiled2sliderlogo img{
+    width: 70px;
+   
+}
+.section9chiled2sliderlogoleft h4{
+    margin-top: 20px;
+    font-size: 25px;
+}
+.section9{
+    padding-top: 150px;
+}
+.section10chiled2 .satisfied{
+    padding: 90px 0px;
+}
+.section10chiled .asgardia{
+    padding: 90px 0px;
+}
+
+.section10chiled .asgardia{
+    margin-top: 20px;
+}
+
+.section11chiled h2{
+    font-size: 40px;
+
+}
+.section10{
+    padding-bottom: 100px;
+}
+.olivialeft .olivialeftchiled2 h5{
+    font-size: 17px;
+}
+.section14chiled h2 a {
+    font-size: 70px
+}
+.section14chiled img {
+    height: 37px;
+    width: 37px;
+}
+.textslider pre {
+    font-size: 45px;
+}
+
+}
+
+@media(max-width:640px){
+    .section14chiled {
+        display: block;
+}
+.section14chiled img {
+    margin-top: 0px;
+    margin-left:  0px;
+}
+}
+
+@media(max-width:600px){
+    
+
+    .right img{
+        margin-right: 35px;
+
+
+}
+
+
+
+}
+
+
+
+
+@media(max-width:576px){
+
+    .accordion2{
+        width: 90%;
+    }
+    .firstbigbox{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .firstboxright img{
+        margin-top: 0px;
+        margin-left: 0px;
+        width: 100%;
+    
+
+
+}
+.firstboxmid h1{
+    font-size: 9vw;
+    margin-left: 15px;
+
+}
+.firstboxmid p{
+    margin-left: 15px;
+   font-size: 16px;
+    line-height: 25px; 
+    
+   
+}
+.clock{
+    margin-bottom: 50px;
+}
+
+.webdevelopments{
+    width:99%;
+
+}
+.branding{
+    width: 99%;
+}
+.digitalproduct{
+   width: 99%;
+
+
+}
+.ui-ux{
+width: 99%;
+
+}
+
+.section4chiled{
+    justify-content: center;
+}
+.digitalpoductchiled button{
+    margin-top: 0px;
+    
+    }
+    .section4 .digitaltext {
+        height: 140px;
+
+
+    }
+    .webdevelopments{
+        margin-top: 50px;
+    }
+    
+    .section5chiled img{
+        width: 100%;
+     
+        margin-left: 25px;
+    }
+    .persentagelineperent{
+        width: 96%;
+    } 
+    .section5chiled2{
+        width: 95%;
+    }
+    .section5chiled{
+        width: 95%;
+    }
+    .section5chiled img{
+     
+        margin-left: 23px;
+    }
+    .section8chiled2{
+        display: block;
+      
+      
+    }
+    .section8chiled2 .section8img img{
+        width: 100%;
+    }
+    .section8chiled2 .section8imgtextchiled2 img{
+        width: 20px;
+    }
+    .section8chiled2 .section8img{
+        margin-top: 25px;
+    }
+   
+    .section9chiled2sliderlogo .section9chiled2sliderlogoright img{
+        width: 25px; 
+    }
+
+    .section9chiled2 .section9chiled2sliderlogo{
+        display: block;
+    }
+    .section9chiled2sliderlogoleft h4{
+        font-size: 22px;
+        margin-left: 15px;
+        margin-top: 23px;
+    }
+
+    .section9chiled2sliderlogo .section9chiled2sliderlogoright img{
+        margin-top: 10px;
+        margin-left: 0px;
+        margin-right: 15px;
+    }
+    .section9chiled2 .section9chiled2sliderlogo{
+        text-align: center;
+    }
+    .section9chiled2 .slide p{
+        padding-bottom: 35px;
+    }
+    .section9{
+        padding-bottom: 100px;
+    }
+    
+}
+
+
+@media(max-width:503px){
+    .digitalpoductchiled button{
+        margin-top: 20px;
+        
+        }
+       
+
+}
+
+@media(max-width:440px){
+
+    .accordion2{
+        width: 100%;
+    }
+    .section8chiled2{
+        margin-top: 55px;
+    }
+    
+    .section14chiled h2 a {
+        font-size:57px
+    }
+
+
+}
+@media(max-width:379px){
+
+    .digitalpoductchiled button{
+        margin-top: 43px;
+        
+        }
+
+}
+
+
+
+
